@@ -1,0 +1,7 @@
+[user]
+	name = ruijadom
+	email = ruijadomingues@gmail.com
+[core]
+	editor = nano
+[init]
+	defaultBranch = main
